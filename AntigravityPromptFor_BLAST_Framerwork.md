@@ -1,9 +1,12 @@
-Protocol 0: Initialization (Mandatory) Prompt 1: \@BLAST.md Read from
+**Protocol 0: Initialization (Mandatory) **
+Prompt 1: @BLAST.md Read from
 the file and lets start the way, We are going to create a local LLM
 Testcase generator with the ollama. I will be share the prompt for the
 testcase generator.
 
-Phase 1: B - Blueprint (Vision & Logic) Prompt 1: \@BLAST.md lets start
+Phase 1: B - Blueprint (Vision & Logic) 
+
+Prompt 1: \@BLAST.md lets start
 with first Phase 1:Blueprint, lets try to create local test generator
 with Ollama API
 
