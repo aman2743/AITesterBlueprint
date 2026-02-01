@@ -12,3 +12,6 @@ We are developing Selenium Java to Playwright with Javascript /Typescript conver
 **Source of Truth:**   Using the UI user provide selenium code (java)    
 **Delivery Payload:**   convert into new directory and show it in the UI also  
 **Behavioral Rules:**   Convert  Everything  
+
+**Second Prompt**  
+@B.L.A.S.T.md now you can go with Phase 2 and Phase 3. Please use the Ollama API  as local LLM and make sure the Model is codelama
