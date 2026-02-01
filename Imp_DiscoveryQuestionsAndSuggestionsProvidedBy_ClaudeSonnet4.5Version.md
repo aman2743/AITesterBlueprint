@@ -1,7 +1,7 @@
-🚨 HALT: Discovery Questions Required
+**🚨 HALT:** Discovery Questions Required
 According to the B.L.A.S.T. protocol, I am strictly forbidden from writing scripts in tools/ until you answer these 5 Discovery Questions:  
 
-🔍 Discovery Questions  
+**🔍 Discovery Questions**    
 **1. North Star:** What is the singular desired outcome?  
 Example: "Enable QA teams to migrate 100+ Selenium tests to Playwright in days, not months"  
 
