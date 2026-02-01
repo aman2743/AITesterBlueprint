@@ -15,3 +15,9 @@ We are developing Selenium Java to Playwright with Javascript /Typescript conver
 
 **Second Prompt**  
 @B.L.A.S.T.md now you can go with Phase 2 and Phase 3. Please use the Ollama API  as local LLM and make sure the Model is codelama
+-----
+-----
+------
+
+**Last prompt:**
+Can you add the proper README file also with diagram
