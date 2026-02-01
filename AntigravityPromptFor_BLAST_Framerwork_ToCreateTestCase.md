@@ -15,9 +15,13 @@ testcase generator.
 **Prompt 2:**
 **North Star**:Local LLM test cases generator based on user input with a proper template which we are going to store in our code with
 Ollama API (open source model llama 3.2)
+
 **Integrations**:Ollama
+
 **Source Of Truth**: NA
+
 **Delivery Payload**: A UI Chat where user will enter the input and based on the input Ollama will take the input and generate the test cases for us
+
 **Behaviour Rules**: User enter a input based on the input we will give the output using Local LLM in Ollama
 
 **Phase 2**: **L - Link (Connectivity)**
