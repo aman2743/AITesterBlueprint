@@ -1,1 +1,4 @@
-@antigravity-skill-creator.md  create a skill where you are helping me to write a tweet for x.com, it should be short and concise . You will be asking me for the topic and you will perform deep research on the tweet and make sure it is clickbaity and CTA friendly, create it now
+**First Prompt**
+
+@antigravity-skill-creator.md  create a skill where you are helping me to write a tweet for x.com, it should be short and concise . You will be asking 
+me for the topic and you will perform deep research on the tweet and make sure it is clickbaity and CTA friendly, create it now
