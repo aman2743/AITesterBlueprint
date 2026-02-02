@@ -8,3 +8,6 @@ me for the topic and you will perform deep research on the tweet and make sure i
 **Third Prompt**  
 can you run this and save all skills
 git clone https://github.com/sickn33/antigravity-awesome-skills.git .agent/skills
+
+**Fourth Prompt**  
+Create a Skill which will create the Playwright with JS/TS framework from scratch, where in the page object model, custom reporter and make sure that it follows the proper guiles also, use will enter the domain name and instruction to automate, you will create the full framework with proper guidelines
