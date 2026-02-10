@@ -1,7 +1,7 @@
 
 # Anatomy of a Prompt
 
-- **Author:** Pramod Dutta
+- **Author:** AK
 - **Role:** Principal SDET
 - **Website:** [The Testing Academy](https://thetestingacademy.com/)
 - **LinkedIn:** [linkedin.com/in/pramoddutta](https://www.linkedin.com/in/pramoddutta/)
