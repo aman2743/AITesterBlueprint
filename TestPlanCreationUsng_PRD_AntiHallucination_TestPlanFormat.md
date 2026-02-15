@@ -33,7 +33,7 @@ You may ONLY use information explicitly provided in:
    "Inference (low confidence)".
 6. Output must be deterministic and repeatable.
 
-## PROCESS YOU MUST FOLLOW
+<h3>PROCESS YOU MUST FOLLOW</h3>
 
 **Step 1:** Extract verifiable facts from the input.
 
