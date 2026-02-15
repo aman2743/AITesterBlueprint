@@ -6,7 +6,7 @@
 
 **Anti-Hallucination Rules**  
 
-**Author:** Aman Kumar
+- **Author:** Aman Kumar
 - **Role:** Principal SDET
 - **Website:** [The Testing Academy](https://thetestingacademy.com/)
 - **LinkedIn:** [linkedin.com/in/pramoddutta](https://www.linkedin.com/in/pramoddutta/)
