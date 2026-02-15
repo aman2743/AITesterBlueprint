@@ -56,3 +56,11 @@ You may ONLY use information explicitly provided in:
 
 ## 🚀 *Flow Step 3. Provide Test Plan format*  
 
+<Product Details> 
+   Created by: Aman Kumar 1. Objective This document outlines the test plan for the application.
+<\Product Details>
+The objective is to ensure that all features and functionalities work as expected for the target audience,
+<Target Audience>. 
+ 
+    2. Scope The scope of this test plan includes: Features to be tested: <Features> 
+
