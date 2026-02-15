@@ -1,4 +1,4 @@
- ## 🚀 *Step 1. Upload the PRD**   
+ ## 🚀 *Step 1. Upload the PRD*   
 **Step 2. Paste Antihallucination rule as below:**
     
 # Anti-Hallucination Rules
