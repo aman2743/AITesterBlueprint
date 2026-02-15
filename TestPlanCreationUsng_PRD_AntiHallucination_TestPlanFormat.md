@@ -75,3 +75,16 @@ The objective is to ensure that all features and functionalities work as expecte
 ✅ 12. Risks and Mitigations Possible Risks: Non-Availability of a Resource, Build URL not working, Less time for Testing. Mitigations: Backup Resource Planning, working on other tasks, ramping up resources dynamically.  
 ✅ 13. Approvals Documents for Client Approval: Test Plan, Test Scenarios, Test Cases, Reports.
 
+# Sometime ask more informtaion and answer is as follow: 
+✅Exact URL structure for login page (assumed: app.vwo.com)
+✅Specific password complexity requirements (length, special characters) - 8 char, alpha nuberic, special char allowed.
+✅Specific error message text/codes - Invalid login error, after 3 times captcha.
+✅Rate limiting thresholds (number of attempts before lockout)
+✅Supported SSO providers list - okta
+✅Social login providers (mentioned as optional - Google, Microsoft) - Google Yes
+✅Specific WCAG 2.1 AA compliance details
+✅Exact UI element selectors/IDs
+✅API endpoints for authentication
+✅Supported languages/localization
+✅Browser version requirements chrome latest, firefox lates and few older browser
+
