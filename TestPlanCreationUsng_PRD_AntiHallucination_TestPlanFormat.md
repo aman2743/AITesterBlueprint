@@ -1,5 +1,5 @@
 ## :rocket:*Flow Step 1. Upload the PRD*   
-## :rocket: **Flow Step 2. Paste Antihallucination rule as below:**  
+## :rocket: *Flow Step 2. Paste Antihallucination rule as below:* 
 
  <h3>Anti-Hallucination Rules</h3> 
 
