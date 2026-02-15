@@ -1,7 +1,8 @@
 ## :rocket:*Step 1. Upload the PRD*   
 ## :rocket: **Step 2. Paste Antihallucination rule as below:**  
-    
-## Anti-Hallucination Rules
+
+    <!-- # Anti-Hallucination Rules -->
+<h3>Anti-Hallucination Rules</h3>
 
 - **Author:** Aman Kumar
 - **Role:** Principal SDET
