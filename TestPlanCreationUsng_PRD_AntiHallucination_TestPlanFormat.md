@@ -3,9 +3,10 @@
 <h1>Anti-Hallucination Rules</h1>
 <h2>Anti-Hallucination Rules</h2>
 <h3>Anti-Hallucination Rules</h3>
+
 **Anti-Hallucination Rules**  
 
-- **Author:** Aman Kumar
+**Author:** Aman Kumar
 - **Role:** Principal SDET
 - **Website:** [The Testing Academy](https://thetestingacademy.com/)
 - **LinkedIn:** [linkedin.com/in/pramoddutta](https://www.linkedin.com/in/pramoddutta/)
