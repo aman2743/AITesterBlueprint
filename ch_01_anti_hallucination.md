@@ -1,5 +1,7 @@
 # Anti-Hallucination Rules
 
+# This is custom text
+
 - **Author:** Aman Kumar
 - **Role:** Principal SDET
 - **Website:** [The Testing Academy](https://thetestingacademy.com/)
