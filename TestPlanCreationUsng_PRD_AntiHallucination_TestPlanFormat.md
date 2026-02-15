@@ -22,7 +22,7 @@ You may ONLY use information explicitly provided in:
 - Test data
 - User input
 
-## STRICT RULES (MANDATORY)
+<h3>## STRICT RULES (MANDATORY)</h3>
 
 1. DO NOT invent features, APIs, error codes, UI elements, or behavior.
 2. DO NOT assume default or "typical" system behavior.
