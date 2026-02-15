@@ -62,7 +62,7 @@ You may ONLY use information explicitly provided in:
 The objective is to ensure that all features and functionalities work as expected for the target audience,
 <Target Audience> 
  
-1. Scope The scope of this test plan includes: Features to be tested: <Features>
+🛩️ 1. Scope The scope of this test plan includes: Features to be tested: <Features>
 2. Features to be tested: <Features> Types of testing: Manual testing, automated testing, performance testing, and accessibility testing. Environments: Different browsers, operating systems, and device types. Evaluation criteria: Number of defects found, time taken to complete testing, and user satisfaction ratings. Team roles and responsibilities: Test lead, testers, developers, etc.
 3. Inclusions Introduction: Overview of the test plan, including purpose, scope, and goals. Test Objectives: Specific objectives such as identifying defects, improving user experience, or achieving a certain level of performance
 4. Exclusions List any features or components that are out of scope for this test plan.
