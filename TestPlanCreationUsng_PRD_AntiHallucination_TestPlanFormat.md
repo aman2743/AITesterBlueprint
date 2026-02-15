@@ -57,10 +57,10 @@ You may ONLY use information explicitly provided in:
 ## 🚀 *Flow Step 3. Provide Test Plan format*  
 
 <Product Details> 
-   Created by: Aman Kumar 1. Objective This document outlines the test plan for the application.
+   Created by: Aman Kumar 1. Objective This document outlines the test plan for the application aap.vwo.com .
 <\Product Details>
 The objective is to ensure that all features and functionalities work as expected for the target audience,
-<Target Audience>. 
+<Target Audience> 
  
 1. Scope The scope of this test plan includes: Features to be tested: <Features>
 2. Features to be tested: <Features> Types of testing: Manual testing, automated testing, performance testing, and accessibility testing. Environments: Different browsers, operating systems, and device types. Evaluation criteria: Number of defects found, time taken to complete testing, and user satisfaction ratings. Team roles and responsibilities: Test lead, testers, developers, etc.
